@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @HackL06d
+- 👋 Hi, I’m @Cyberhack3r
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Ethical Hackers & Bug Hunters
 - 📫 How to reach me ...
-- 😄 Pronouns: HackL06d
-- ⚡ Fun fact: H@cl<e6
+- 😄 Pronouns: Cyberhack3r
 
 <!---
 HackL06d/HackL06d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
